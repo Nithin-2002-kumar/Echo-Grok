@@ -1,0 +1,8 @@
+{
+    "user_name": "User",
+    "speech_rate": 150,
+    "preferred_language": "en",
+    "theme": "light",
+    "font_size": 12,
+    "hotword": "echogrok"
+}
